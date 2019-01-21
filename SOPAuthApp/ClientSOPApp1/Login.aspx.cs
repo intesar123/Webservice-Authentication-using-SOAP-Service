@@ -18,7 +18,7 @@ namespace ClientSOPApp1
         protected void Button1_Click(object sender, EventArgs e)
         {
             MySerivice.MyServiceClassSoapClient client = new MyServiceClassSoapClient();
-           string Message= client.SayHello(new UserDetails {userName= TextBox1.Text, password = TextBox2.Text }, TextBox1.Text);
+           string Message= client.SayHello(new UserDetails {userName= TextBox1.Text, password = TextBox2.Text },TextBox1.Text);
 
             //MyService.SayHelloRequest service = new UserDetails()
             //{

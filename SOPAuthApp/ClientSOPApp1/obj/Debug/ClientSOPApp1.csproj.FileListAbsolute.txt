@@ -105,8 +105,8 @@ E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\b
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\bin\roslyn\VBCSCompiler.exe.config
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\obj\Debug\ClientSOPApp1.csprojAssemblyReference.cache
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\obj\Debug\ClientSOPApp1.csproj.CoreCompileInputs.cache
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\obj\Debug\ClientSOPApp1.csproj.CopyComplete
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\obj\Debug\ClientSOPApp1.dll
 E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\obj\Debug\ClientSOPApp1.pdb
+E:\myGit\Webservice-Authentication-using-SOAP-Service\SOPAuthApp\ClientSOPApp1\obj\Debug\ClientSOPApp1.csprojAssemblyReference.cache
