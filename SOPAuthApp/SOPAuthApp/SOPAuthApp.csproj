@@ -73,6 +73,7 @@
   <ItemGroup>
     <Content Include="App_Code\MyServiceClass.cs" />
     <Content Include="App_Code\UserDetails.cs" />
+    <Content Include="App_Code\Authentication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
